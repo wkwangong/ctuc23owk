@@ -1,2 +1,1 @@
-# projecteuler
-Project Euler Challenges
+# ctuc23 owk homework
